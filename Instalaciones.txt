@@ -1,0 +1,4 @@
+// Bootstrap librería
+nom i bootstrap
+// Axios módulo para realizar peticiones HTTP
+// npm i axios
